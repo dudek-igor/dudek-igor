@@ -9,4 +9,6 @@
 
 ## Skills
 
-<img align="left" alt="React" src="https://progress-bar.dev/75/?title=React&width=120&color=#61DAFB" />
+<img align="left" alt="React" src="https://progress-bar.dev/75/?title=React&width=200" />
+<img align="left" alt="Node.js" src="https://progress-bar.dev/60/?title=Node.js&width=200" />
+<img align="left" alt="Angular" src="https://progress-bar.dev/5/?title=Angular&width=200" />
