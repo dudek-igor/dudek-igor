@@ -9,17 +9,17 @@
 
 ### :pushpin: Goals for 2020:
 
-Learn HTML <img align="left" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
+:heavy_check_mark: Learn HTML
 <br/>
-Learn CSS <img align="left" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
+:heavy_check_mark: Learn CSS
 <br/>
-Learn JS <img align="left" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
+:heavy_check_mark: Learn JS
 <br/>
-Learn React <img align="left" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
+:heavy_check_mark: Learn React
 <br/>
-Learn Node <img align="left" alt="In Progress" src="https://progress-bar.dev/50/?title=In_Progress" />
+:heavy_minus_sign: Learn Node
 <br/>
-:heavy_minus_sign: Find first job as JS devloper
+:heavy_minus_sign: Find first job as JS Developer
 
 ### Contact
 
