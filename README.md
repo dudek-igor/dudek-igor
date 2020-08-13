@@ -47,7 +47,7 @@
 
 ### Skills:
 
-- <img align="left" alt="React.js" src="https://progress-bar.dev/75/?title=React&width=200" />
+- <img align="left" alt="React.js" src="https://progress-bar.dev/75/?title=React&nbsp&nbsp&width=200" />
   <br />
 - <img align="left" alt="Node.js" src="https://progress-bar.dev/60/?title=Node.js&width=200" />
   <br />
