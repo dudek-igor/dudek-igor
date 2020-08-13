@@ -9,11 +9,11 @@
 
 ### :pushpin: Goals for 2020:
 
-- :heavy_check_mark: Learn HTML <img align=align="right" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
-- :heavy_check_mark: Learn CSS <img align=align="right" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
-- :heavy_check_mark: Learn JS <img align=align="right" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
+- :heavy_check_mark: Learn HTML <img align="right" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
+- :heavy_check_mark: Learn CSS <img align="right" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
+- :heavy_check_mark: Learn JS <img align="right" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
 - :heavy_check_mark: Learn React <img align="right" alt="Done" src="https://progress-bar.dev/100/?title=Done" />
-- :heavy_minus_sign: Learn Node <img align=align="right" alt="In Progress" src="https://progress-bar.dev/50/?title=In_Progress" />
+- :heavy_minus_sign: Learn Node <img align="right" alt="In Progress" src="https://progress-bar.dev/50/?title=In_Progress" />
 - :heavy_minus_sign: Find first job as JS devloper
 
 ### Contact
