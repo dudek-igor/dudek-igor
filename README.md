@@ -23,7 +23,7 @@
 
 ### Contact
 
-[<img align="left" alt="LinkedIn | LinkedIn" width="30px" fill="#0077B5" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[#0077B5](<img align="left" alt="LinkedIn | LinkedIn" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />)[linkedin]
 <br />
 <br />
 
