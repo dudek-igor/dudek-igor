@@ -30,6 +30,15 @@
 
 ### Language:
 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
 
@@ -37,14 +46,17 @@
 
 ### Skills:
 
-- <img align="left" alt="React.js" src="https://progress-bar.dev/75/?title=React&width=200" />
+- <img align="left" alt="React.js" src="https://progress-bar.dev/75/?title=React.js&width=200" />
   <br />
 - <img align="left" alt="Node.js" src="https://progress-bar.dev/60/?title=Node.js&width=200" />
   <br />
 - <img align="left" alt="Angular" src="https://progress-bar.dev/5/?title=Angular&width=200" />
 
 Why 75% is max?
-Because Javascript is enormouse enviroment with brightest future and I think if you are a developer of any programming language, you want to be better and not be left behind, you still have to learn them for the rest of your career.
+<br />
+First of all, I lack experience in the company (I hope it will change quickly).
+<br />
+Secondly Javascript is enormouse enviroment with brightest future and I think if you are a developer of any programming language, you want to be better and not be left behind, you still have to learn them for the rest of your career.
 <br />
 <br />
 
