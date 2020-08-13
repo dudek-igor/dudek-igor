@@ -44,7 +44,7 @@
 - <img align="left" alt="Angular" src="https://progress-bar.dev/5/?title=Angular&width=200" />
 
 Why 75% is max?
-Because Javascript is enormouse enviroment with brightest future and I think if you are a developer of any programming languag, you want to be better and not be left behind, you still have to learn them for the rest of your career.
+Because Javascript is enormouse enviroment with brightest future and I think if you are a developer of any programming language, you want to be better and not be left behind, you still have to learn them for the rest of your career.
 <br />
 <br />
 
