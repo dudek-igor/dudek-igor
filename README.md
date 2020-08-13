@@ -23,8 +23,9 @@
 
 ### Contact
 
-  <br />
-  <br />
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" color="#0077B5" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+<br />
+<br />
 
 ---
 
@@ -46,7 +47,7 @@
 
 ### Skills:
 
-- <img align="left" alt="React.js" src="https://progress-bar.dev/75/?title=React.js&width=200" />
+- <img align="left" alt="React  " src="https://progress-bar.dev/75/?title=React.js&width=200" />
   <br />
 - <img align="left" alt="Node.js" src="https://progress-bar.dev/60/?title=Node.js&width=200" />
   <br />
@@ -61,3 +62,5 @@ Secondly Javascript is enormouse enviroment with brightest future and I think if
 <br />
 
 ---
+
+[linkedin]: https://www.linkedin.com/in/igor-dudek-96a87611a/
