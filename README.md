@@ -6,3 +6,7 @@
 - :school_satchel: I'm currently in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
 - :us: Still improve my english skill!
 - :hearts: Hobby: Basketball, Gym, Bicycling,
+
+## Skills
+
+<img align="left" alt="React" src="https://progress-bar.dev/75/?title=React&width=120&color=#61DAFB" />
