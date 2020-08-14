@@ -47,11 +47,12 @@
 
 ### Skills:
 
-- <img align="left" alt="React.js" src="https://progress-bar.dev/75/?title=React&nbsp&nbsp&width=200" />
+- <img align="left" alt="Javascript" src="https://progress-bar.dev/75/?title=Javascript&width=200" />
+- <img align="left" alt="React.js" src="https://progress-bar.dev/65/?title=React&nbsp&nbsp&&nbsp&nbsp&nbspwidth=200" />
   <br />
-- <img align="left" alt="Node.js" src="https://progress-bar.dev/60/?title=Node.js&width=200" />
+- <img align="left" alt="Node.js" src="https://progress-bar.dev/50/?title=Node.js&nbsp&nbsp&nbsp&width=200" />
   <br />
-- <img align="left" alt="Angular" src="https://progress-bar.dev/5/?title=Angular&width=200" />
+- <img align="left" alt="Angular" src="https://progress-bar.dev/5/?title=Angular&nbsp&nbsp&nbsp&width=200" />
 
 Why 75% is max?
 <br />
