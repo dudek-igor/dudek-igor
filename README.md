@@ -7,7 +7,7 @@
 - :us: Still improving my english skill!
 - :hearts: Hobby: Basketball, Gym, Bicycling,
 
-### :pushpin: Goals for 2020:
+### :pushpin: Goals:
 
 :heavy_check_mark: Learn HTML
 <br/>
@@ -18,6 +18,8 @@
 :heavy_check_mark: Learn React
 <br/>
 :heavy_minus_sign: Learn Node
+<br/>
+:heavy_check_mark: Learn Electron
 <br/>
 :heavy_minus_sign: Find first job as JS Developer
 
