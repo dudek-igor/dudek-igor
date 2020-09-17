@@ -21,7 +21,7 @@
 <br/>
 :heavy_minus_sign: Learn Node
 <br/>
-:heavy_minus_sign Learn Angular
+:heavy_minus_sign: Learn Angular
 <br/>
 
 :heavy_minus_sign: Find first job as JS Developer
