@@ -21,7 +21,7 @@
 <br/>
 :heavy_minus_sign: Learn Node
 <br/>
-:heavy_check_mark: Learn Angular
+:heavy_minus_sign Learn Angular
 <br/>
 
 :heavy_minus_sign: Find first job as JS Developer
@@ -62,7 +62,7 @@
   <br />
 - <img align="left" alt="Angular" src="https://progress-bar.dev/5/?title=Angular&nbsp&nbsp&nbsp&width=200" />
 
-Why 85% is max?
+Why 95% is max?
 <br />
 First of all, I lack experience in the company (I hope it will change quickly).
 <br />
