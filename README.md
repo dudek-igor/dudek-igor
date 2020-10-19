@@ -4,7 +4,7 @@
 
 - :school: I'm a graduate of the University of Wrocław in the field of Genetics and Experimental Biology!
 - :mortar_board: I'm currently in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
-- :us: Still improving my english skill!
+- :us: Still improving my english skills!
 - :hearts: Hobby: Basketball, Gym, Bicycling,
 
 ### :pushpin: Goals:
@@ -33,6 +33,11 @@
 <br />
 
 ---
+
+### List of all Projects
+
+[Projects](https://github.com/dudek-igor/dudek-igor.github.io/blob/main/README.md)
+[Dobre Praktyki w React](https://github.com/dudek-igor/Dobre_Praktyki_w_React)
 
 ### Language:
 
