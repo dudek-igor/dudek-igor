@@ -36,8 +36,10 @@
 
 ### List of all Projects
 
-[Projects](https://github.com/dudek-igor/dudek-igor.github.io/blob/main/README.md)
-[Dobre Praktyki w React](https://github.com/dudek-igor/Dobre_Praktyki_w_React)
+1. [Projects](https://github.com/dudek-igor/dudek-igor.github.io/blob/main/README.md)
+2. [Dobre Praktyki w React](https://github.com/dudek-igor/Dobre_Praktyki_w_React)
+
+---
 
 ### Language:
 
