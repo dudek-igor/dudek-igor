@@ -9,22 +9,22 @@
 
 ### :pushpin: Goals:
 
-[x] Learn HTML
+:heavy_check_mark: Learn HTML
+<br/>	
+:heavy_check_mark: Learn CSS	
 <br/>
-[x] Learn CSS
+:heavy_check_mark: Learn JS	
+<br/>	
+:heavy_check_mark: Learn React	
 <br/>
-[x] Learn JS
-<br/>
-[x] Learn React
-<br/>
-[x] Learn Electron
-<br/>
-[ ] Learn Node
-<br/>
-[ ] Learn Angular
+:heavy_check_mark: Learn Electron	
+<br/>	
+:heavy_minus_sign: Learn Node
+<br/>	
+:heavy_minus_sign: Learn Angular	
 <br/>
 
-[ ] Find first job as JS Developer
+:heavy_minus_sign: Find first job as JS Developer
 
 ### Contact
 
