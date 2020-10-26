@@ -9,22 +9,22 @@
 
 ### :pushpin: Goals:
 
-:heavy_check_mark: Learn HTML
+[x] Learn HTML
 <br/>
-:heavy_check_mark: Learn CSS
+[x] Learn CSS
 <br/>
-:heavy_check_mark: Learn JS
+[x] Learn JS
 <br/>
-:heavy_check_mark: Learn React
+[x] Learn React
 <br/>
-:heavy_check_mark: Learn Electron
+[x] Learn Electron
 <br/>
-:heavy_minus_sign: Learn Node
+[ ] Learn Node
 <br/>
-:heavy_minus_sign: Learn Angular
+[ ] Learn Angular
 <br/>
 
-:heavy_minus_sign: Find first job as JS Developer
+[ ] Find first job as JS Developer
 
 ### Contact
 
@@ -38,6 +38,7 @@
 
 1. [Projects](https://github.com/dudek-igor/dudek-igor.github.io/blob/main/README.md)
 2. [Dobre Praktyki w React](https://github.com/dudek-igor/Dobre_Praktyki_w_React)
+3. [GIT](https://github.com/dudek-igor/GIT)
 
 ---
 
