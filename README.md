@@ -35,20 +35,16 @@
 
 ### :mag: Study Plan:
 1. Priority:
-<br/>
-  [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/dudek-igor)
+ - [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/dudek-igor)
 
 2. Frontend: 
-<br/>
-  [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor) [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)](https://github.com/dudek-igor) [![Ember.js](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=Ember.js&logoColor=white)](https://github.com/dudek-igor)
+ - [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor) [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)](https://github.com/dudek-igor) [![Ember.js](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=Ember.js&logoColor=white)](https://github.com/dudek-igor)
 
 3. Backend:
-<br/>
-  [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=Firebase&logoColor=white)](https://github.com/dudek-igor) [![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)](https://github.com/dudek-igor) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)](https://github.com/dudek-igor) [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)](https://github.com/dudek-igor)
+ - [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=Firebase&logoColor=white)](https://github.com/dudek-igor) [![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)](https://github.com/dudek-igor) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)](https://github.com/dudek-igor) [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)](https://github.com/dudek-igor)
 
 4. Future:
-<br/>
-  [![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)](https://github.com/dudek-igor) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)](https://github.com/dudek-igor)
+ - [![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)](https://github.com/dudek-igor) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)](https://github.com/dudek-igor)
   
 ---
 
