@@ -5,26 +5,7 @@
 - :school: I'm a graduate of the University of Wrocław in the field of Genetics and Experimental Biology!
 - :mortar_board: I'm currently in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
 - :us: Still improving my english skills!
-- :hearts: Hobby: Basketball, Gym, Bicycling,
-
-### :pushpin: Goals:
-
-:heavy_check_mark: Learn HTML
-<br/>	
-:heavy_check_mark: Learn CSS	
-<br/>
-:heavy_check_mark: Learn JS	
-<br/>	
-:heavy_check_mark: Learn React	
-<br/>
-:heavy_check_mark: Learn Electron	
-<br/>	
-:heavy_minus_sign: Learn Node
-<br/>	
-:heavy_minus_sign: Learn Angular	
-<br/>
-
-:heavy_minus_sign: Find first job as JS Developer
+- :hearts: Hobby: Basketball, Gym, Bicycling.
 
 ### Contact
 
@@ -33,6 +14,40 @@
 <br />
 
 ---
+
+### :computer: Technologies:
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/dudek-igor)
+<br/>	
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/dudek-igor)
+<br/>
+[![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)](https://github.com/dudek-igor)
+<br/>	
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/dudek-igor)
+<br/>	
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/dudek-igor)
+<br/>
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/dudek-igor)
+<br/>
+[![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white)](https://github.com/dudek-igor)
+<br/>
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://github.com/dudek-igor)
+<br/>
+[![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)](https://github.com/dudek-igor)
+
+
+:heavy_check_mark: Learn Electron	
+<br/>	
+:heavy_minus_sign: Learn Node
+<br/>	
+:heavy_minus_sign: Learn Angular	
+<br/>
+
+### :mag: Learn:
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/dudek-igor)
+<br/>
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor)
+
 
 ### List of all Projects
 
