@@ -17,27 +17,32 @@
 
 ### :computer: Technologies:
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/dudek-igor) [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/dudek-igor)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/dudek-igor) [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/dudek-igor) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/dudek-igor) 
 <br/>	
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/dudek-igor) [![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)](https://github.com/dudek-igor) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://github.com/dudek-igor)
 <br/>	
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/dudek-igor)
 <br/>	
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/dudek-igor) [![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white)](https://github.com/dudek-igor) [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://github.com/dudek-igor) [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)](https://github.com/dudek-igor)
-
-
-:heavy_check_mark: Learn Electron	
-<br/>	
-:heavy_minus_sign: Learn Node
-<br/>	
-:heavy_minus_sign: Learn Angular	
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)](https://github.com/dudek-igor) [![Eslint](https://img.shields.io/badge/-Eslint-4B32C3?style=flat&logo=Eslint&logoColor=white)](https://github.com/dudek-igor) [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white)](https://github.com/dudek-igor)
 <br/>
-
-### :mag: Learn:
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/dudek-igor)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/dudek-igor) [![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white)](https://github.com/dudek-igor) [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://github.com/dudek-igor) [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)](https://github.com/dudek-igor)
 <br/>
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://github.com/dudek-igor) [![Express](https://img.shields.io/badge/-Express-000000?style=flat)](https://github.com/dudek-igor) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/dudek-igor)
+<br/>
+[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)](https://github.com/dudek-igor)
 
+### :mag: Study Plan:
+1. Priority:
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/dudek-igor)
+
+2. Frontend:
+  [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor) [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)](https://github.com/dudek-igor) [![Ember.js](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=Ember.js&logoColor=white)](https://github.com/dudek-igor)
+
+3. Backend:
+  [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=Firebase&logoColor=white)](https://github.com/dudek-igor) [![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)](https://github.com/dudek-igor) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)](https://github.com/dudek-igor) [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)](https://github.com/dudek-igor)
+
+4. Future:
+  [![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)](https://github.com/dudek-igor)
 
 ### List of all Projects
 
@@ -48,36 +53,7 @@
 
 ---
 
-### Language:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<br />
-
----
-
-### Skills:
-
-- <img align="left" alt="Javascript" src="https://progress-bar.dev/95/?title=Javascript&width=200" />
-- <img align="left" alt="React.js" src="https://progress-bar.dev/90/?title=React&nbsp&nbsp&nbsp&nbsp&nbsp&width=200" />
-  <br />
-- <img align="left" alt="Electron" src="https://progress-bar.dev/85/?title=Electron&nbsp&nbsp&width=200" />
-  <br />
-- <img align="left" alt="Node.js" src="https://progress-bar.dev/50/?title=Node.js&nbsp&nbsp&nbsp&width=200" />
-  <br />
-- <img align="left" alt="Angular" src="https://progress-bar.dev/5/?title=Angular&nbsp&nbsp&nbsp&width=200" />
-
-Why 95% is max?
-<br />
+### Few words:
 First of all, I lack experience in the company (I hope it will change quickly).
 <br />
 Secondly Javascript is enormouse enviroment with brightest future and I think if you are a developer of any programming language, you want to be better and not be left behind, you still have to learn them for the rest of your career.
