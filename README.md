@@ -27,7 +27,7 @@
 <br/>
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/dudek-igor) [![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white)](https://github.com/dudek-igor) [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://github.com/dudek-igor) [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)](https://github.com/dudek-igor)
 <br/>
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://github.com/dudek-igor) [![Express](https://img.shields.io/badge/-Express-000000?style=flat)](https://github.com/dudek-igor) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/dudek-igor)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://github.com/dudek-igor) [![Express](https://img.shields.io/badge/-Express-000000?style=flat)](https://github.com/dudek-igor) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/dudek-igor) [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://github.com/dudek-igor)
 <br/>
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)](https://github.com/dudek-igor)
 
