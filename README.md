@@ -21,7 +21,7 @@
 <br/>	
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/dudek-igor) [![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)](https://github.com/dudek-igor) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://github.com/dudek-igor)
 <br/>	
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/dudek-igor)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/dudek-igor) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/dudek-igor)
 <br/>	
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)](https://github.com/dudek-igor) [![Eslint](https://img.shields.io/badge/-Eslint-4B32C3?style=flat&logo=Eslint&logoColor=white)](https://github.com/dudek-igor) [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white)](https://github.com/dudek-igor)
 <br/>
@@ -35,16 +35,16 @@
 
 ### :mag: Study Plan:
 1. Priority:
- - [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/dudek-igor)
+   - [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor)
 
 2. Frontend: 
- - [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor) [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)](https://github.com/dudek-igor) [![Ember.js](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=Ember.js&logoColor=white)](https://github.com/dudek-igor)
+   - [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)](https://github.com/dudek-igor) [![Ember.js](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=Ember.js&logoColor=white)](https://github.com/dudek-igor)
 
 3. Backend:
- - [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=Firebase&logoColor=white)](https://github.com/dudek-igor) [![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)](https://github.com/dudek-igor) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)](https://github.com/dudek-igor) [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)](https://github.com/dudek-igor)
+   - [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=Firebase&logoColor=white)](https://github.com/dudek-igor) [![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)](https://github.com/dudek-igor) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)](https://github.com/dudek-igor) [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)](https://github.com/dudek-igor)
 
 4. Future:
- - [![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)](https://github.com/dudek-igor) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)](https://github.com/dudek-igor)
+   - [![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)](https://github.com/dudek-igor) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)](https://github.com/dudek-igor)
   
 ---
 
@@ -54,8 +54,8 @@
 2. [Dobre Praktyki w React](https://github.com/dudek-igor/Dobre_Praktyki_w_React)
 3. [GIT](https://github.com/dudek-igor/GIT)
 4. Webpacks :
- - [TypeScript](https://github.com/dudek-igor/webpack_with_typescript)
- - [Babel](https://github.com/dudek-igor/Basic-Webpack)
+   - [TypeScript](https://github.com/dudek-igor/webpack_with_typescript)
+   - [Babel](https://github.com/dudek-igor/Basic-Webpack)
 
 ---
 
