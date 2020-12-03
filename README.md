@@ -53,7 +53,9 @@
 1. [Projects](https://github.com/dudek-igor/dudek-igor.github.io/blob/main/README.md)
 2. [Dobre Praktyki w React](https://github.com/dudek-igor/Dobre_Praktyki_w_React)
 3. [GIT](https://github.com/dudek-igor/GIT)
-4. [My Basic Webpack](https://github.com/dudek-igor/Basic-Webpack)
+4. Webpacks :
+ - [TypeScript](https://github.com/dudek-igor/webpack_with_typescript)
+ - [Babel](https://github.com/dudek-igor/Basic-Webpack)
 
 ---
 
