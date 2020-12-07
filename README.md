@@ -35,7 +35,7 @@
 
 ### :mag: Study Plan:
 1. Priority:
-   - Practice typescript via rewriting projects,
+   - Practice typescript via rewriting JS projects,
    - [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor)
 
 2. Frontend: 
