@@ -9,7 +9,7 @@
 
 ### Contact
 
-[<img align="left" alt="LinkedIn | LinkedIn" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn | LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 <br />
 <br />
 
@@ -70,4 +70,4 @@ Secondly Javascript is enormouse enviroment with brightest future and I think if
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/igor-dudek-96a87611a/
+[linkedin]: https://www.linkedin.com/in/igor-dudek/
