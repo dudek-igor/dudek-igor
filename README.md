@@ -42,7 +42,7 @@
    - [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)](https://github.com/dudek-igor) [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)](https://github.com/dudek-igor)  [![Ember.js](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=Ember.js&logoColor=white)](https://github.com/dudek-igor)
    - [![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=Material-UI&logoColor=white)](https://github.com/dudek-igor) [![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)](https://github.com/dudek-igor)
 
-3. Backend:
+3. Backend / Serverless:
    - [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=Firebase&logoColor=white)](https://github.com/dudek-igor) [![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)](https://github.com/dudek-igor) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)](https://github.com/dudek-igor) [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)](https://github.com/dudek-igor)
 
 4. Future:
@@ -57,7 +57,7 @@
 3. [GIT](https://github.com/dudek-igor/GIT)
 4. Webpacks :
    - [TypeScript](https://github.com/dudek-igor/webpack_with_typescript)
-   - [Babel](https://github.com/dudek-igor/Basic-Webpack)
+   - [Babel](https://github.com/dudek-igor/webpack_with_babel)
 
 ---
 
