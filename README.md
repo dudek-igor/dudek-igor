@@ -2,8 +2,8 @@
 
 ## Future Full-Stack Javascript Developer!
 
+- :mortar_board: Currently I', in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
 - :school: I'm a graduate of the University of Wrocław in the field of Genetics and Experimental Biology!
-- :mortar_board: I'm currently in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
 - :us: Still improving my english skills!
 - :hearts: Hobby: Basketball, Gym, Bicycling.
 
