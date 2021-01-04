@@ -7,6 +7,8 @@
 - :us: Still improving my english skills!
 - :hearts: Hobby: Basketball, Gym, Bicycling.
 
+## [Check My Cv Page](https://my-cv-page-e67r3q05p.vercel.app/)
+
 ### Contact
 
 [<img align="left" alt="LinkedIn | LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
