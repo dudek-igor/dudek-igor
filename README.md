@@ -7,7 +7,7 @@
 - :us: Still improving my english skills!
 - :hearts: Hobby: Basketball, Gym, Bicycling.
 
-## [Check My Cv Page](https://my-cv-page-e67r3q05p.vercel.app/)
+# [Check My Cv Page](https://vercel.com/dudek-igor/my-cv-page)
 
 ### Contact
 
@@ -54,9 +54,10 @@
 
 ### :file_folder: List of all Projects
 
-1. [Projects](https://github.com/dudek-igor/dudek-igor.github.io/blob/main/README.md)
-2. [Dobre Praktyki w React](https://github.com/dudek-igor/Dobre_Praktyki_w_React)
-3. [GIT](https://github.com/dudek-igor/GIT)
+1. [My CV Page](https://vercel.com/dudek-igor/my-cv-page)
+2. [Projects](https://github.com/dudek-igor/dudek-igor.github.io/blob/main/README.md)
+3. [Dobre Praktyki w React](https://github.com/dudek-igor/Dobre_Praktyki_w_React)
+4. [GIT](https://github.com/dudek-igor/GIT)
 4. Webpacks :
    - [TypeScript](https://github.com/dudek-igor/webpack_with_typescript)
    - [Babel](https://github.com/dudek-igor/webpack_with_babel)
