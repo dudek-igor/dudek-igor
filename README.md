@@ -27,7 +27,7 @@
 <br/>	
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)](https://github.com/dudek-igor) [![Eslint](https://img.shields.io/badge/-Eslint-4B32C3?style=flat&logo=Eslint&logoColor=white)](https://github.com/dudek-igor) [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white)](https://github.com/dudek-igor)
 <br/>
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/dudek-igor) [![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white)](https://github.com/dudek-igor) [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://github.com/dudek-igor) [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)](https://github.com/dudek-igor)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/dudek-igor) [![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white)](https://github.com/dudek-igor) [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://github.com/dudek-igor) [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)](https://github.com/dudek-igor) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor)
 <br/>
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://github.com/dudek-igor) [![Express](https://img.shields.io/badge/-Express-000000?style=flat)](https://github.com/dudek-igor) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/dudek-igor) [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://github.com/dudek-igor)
 <br/>
@@ -38,7 +38,6 @@
 ### :mag: Study Plan:
 1. Priority:
    - Practice typescript via rewriting JS projects,
-   - [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/dudek-igor)
    - [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)](https://github.com/dudek-igor)
 2. Frontend: 
    - [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)](https://github.com/dudek-igor) [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)](https://github.com/dudek-igor)  [![Ember.js](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=Ember.js&logoColor=white)](https://github.com/dudek-igor)
