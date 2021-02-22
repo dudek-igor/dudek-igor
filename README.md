@@ -1,13 +1,16 @@
 ### Hello everyone, I'm Igor Dudek 👋
 
-## Future Full-Stack Javascript Developer!
+## Junior Full-Stack Javascript Developer!
 
-- :mortar_board: Currently I', in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
+- 
+- :mortar_board: Currently I'm, in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
 - :school: I'm a graduate of the University of Wrocław in the field of Genetics and Experimental Biology!
 - :us: Still improving my english skills!
 - :hearts: Hobby: Basketball, Gym, Bicycling.
 
+<!---
 # [Check My Cv Page](https://cv-igor-dudek.vercel.app/)
+-->
 
 ### Contact
 
@@ -55,11 +58,6 @@
 
 1. [My CV Page](https://cv-igor-dudek.vercel.app/)
 2. [Projects](https://github.com/dudek-igor/dudek-igor.github.io/blob/main/README.md)
-3. [Dobre Praktyki w React](https://github.com/dudek-igor/Dobre_Praktyki_w_React)
-4. [GIT](https://github.com/dudek-igor/GIT)
-4. Webpacks :
-   - [TypeScript](https://github.com/dudek-igor/webpack_with_typescript)
-   - [Babel](https://github.com/dudek-igor/webpack_with_babel)
 
 ---
 
