@@ -2,7 +2,7 @@
 
 ## Junior Full-Stack Javascript Developer!
 
-- 
+- :construction_worker: Actually working in BAYT Raik Scheffler company.
 - :mortar_board: Currently I'm, in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
 - :school: I'm a graduate of the University of Wrocław in the field of Genetics and Experimental Biology!
 - :us: Still improving my english skills!
@@ -62,9 +62,8 @@
 ---
 
 ### :raising_hand: Few words:
-First of all, I lack experience in the company (I hope it will change quickly).
-<br />
-Secondly Javascript is enormouse enviroment with brightest future and I think if you are a developer of any programming language, you want to be better and not be left behind, you still have to learn them for the rest of your career.
+
+Javascript is enormouse enviroment with brightest future and I think if you are a developer of any programming language, you want to be better and not be left behind, you still have to learn them for the rest of your career.
 <br />
 <br />
 
