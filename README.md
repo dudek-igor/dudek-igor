@@ -2,8 +2,8 @@
 
 ## Junior Full-Stack Javascript Developer!
 
-- :construction_worker: Actually working in BAYT Raik Scheffler company.
-- :mortar_board: Currently I'm, in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
+- :construction_worker: Actually works at BAYT Raik Scheffler company.
+- :mortar_board: Currently I'm in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
 - :school: I'm a graduate of the University of Wrocław in the field of Genetics and Experimental Biology!
 - :us: Still improving my english skills!
 - :hearts: Hobby: Basketball, Gym, Bicycling.
@@ -60,13 +60,14 @@
 2. [Projects](https://github.com/dudek-igor/dudek-igor.github.io/blob/main/README.md)
 
 ---
-
+<!---
 ### :raising_hand: Few words:
-
+-->
+<!---
 Javascript is enormouse enviroment with brightest future and I think if you are a developer of any programming language, you want to be better and not be left behind, you still have to learn them for the rest of your career.
 <br />
 <br />
-
+-->
 ---
 
 [linkedin]: https://www.linkedin.com/in/igor-dudek/
