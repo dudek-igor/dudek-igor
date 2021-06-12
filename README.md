@@ -1,6 +1,6 @@
 ### Hello everyone, I'm Igor Dudek 👋
 
-## Junior Full-Stack Javascript Developer!
+## Full-Stack Javascript Developer!
 
 - :construction_worker: Actually works at BAYT Raik Scheffler company.
 - :mortar_board: Currently I'm in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
