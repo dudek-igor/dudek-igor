@@ -2,9 +2,8 @@
 
 ## Full-Stack Javascript Developer!
 
-- :construction_worker: Actually works at BAYT Raik Scheffler company.
-- :mortar_board: Currently I'm in postgraduate studies at WSB University in the field of Front-End Devloper with Angular!
-- :school: I'm a graduate of the University of Wrocław in the field of Genetics and Experimental Biology!
+- :construction_worker: Actually works at GetnowX.
+- :mortar_board: Currently I'm study computer science / master degree 
 - :us: Still improving my english skills!
 - :hearts: Hobby: Basketball, Gym, Bicycling.
 
