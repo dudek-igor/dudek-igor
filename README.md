@@ -1,8 +1,8 @@
 ### Hello everyone, I'm Igor Dudek 👋
 
-## Full-Stack Javascript Developer!
+## Full Stack Software Developer
 
-- :construction_worker: Actually works at GetnowX.
+- :construction_worker: Actually works at GetnowX Project.
 - :mortar_board: Currently I'm study computer science / master degree 
 - :us: Still improving my english skills!
 - :hearts: Hobby: Basketball, Gym, Bicycling.
@@ -48,7 +48,7 @@
 3. Backend / Serverless:
    - [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=Firebase&logoColor=white)](https://github.com/dudek-igor) [![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)](https://github.com/dudek-igor) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)](https://github.com/dudek-igor)
 
-4. Future:
+4. Plans:
    - [![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)](https://github.com/dudek-igor) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)](https://github.com/dudek-igor)
   
 ---
