@@ -34,10 +34,10 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://github.com/dudek-igor) [![Express](https://img.shields.io/badge/-Express-000000?style=flat)](https://github.com/dudek-igor) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/dudek-igor) [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://github.com/dudek-igor) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://github.com/dudek-igor)
 <br/>
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)](https://github.com/dudek-igor)
-
+[![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)](https://github.com/dudek-igor)
 ---
 
-### :mag: Study Plan:
+<!-- ### :mag: Study Plan:
 1. Priority:
    - Practice typescript via rewriting JS projects,
     - [![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=Material-UI&logoColor=white)](https://github.com/dudek-igor) [![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)](https://github.com/dudek-igor)
@@ -46,12 +46,12 @@
    - [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)](https://github.com/dudek-igor) [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)](https://github.com/dudek-igor)  [![Ember.js](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=Ember.js&logoColor=white)](https://github.com/dudek-igor)
 
 3. Backend / Serverless:
-   - [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=Firebase&logoColor=white)](https://github.com/dudek-igor) [![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)](https://github.com/dudek-igor) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)](https://github.com/dudek-igor)
+   - [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=Firebase&logoColor=white)](https://github.com/dudek-igor) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)](https://github.com/dudek-igor)
 
 4. Plans:
    - [![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)](https://github.com/dudek-igor) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)](https://github.com/dudek-igor)
   
----
+--- -->
 
 ### :file_folder: List of all Projects
 
